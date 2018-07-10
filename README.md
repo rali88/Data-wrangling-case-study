@@ -1,2 +1,3 @@
-# Data-wrangling-json-Exercise
-Exercise for springboard career track
+# Data wrangling case study: World bank data
+
+The following notebook demonstrates data wrangling on json data from world bank:
